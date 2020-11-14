@@ -45,8 +45,8 @@ function App() {
       'channelId' : 'UCg8ss4xW9jASrqWGP30jXiw'
     },
     {
-      'title' : 'Clever Programmer',
-      'channelId' : 'CleverProgrammer'
+      'title' : 'Developer',
+      'channelId' : 'UC2WHjPDvbE6O328n17ZGcfg'
     }
   ]);
   
