@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+main{
+  margin-top: 20px
+}
+.loading{
+  position: fixed;
+  top: 40%;
+  left: 48%;
+  z-index: 999999;
+}

@@ -1,0 +1,16 @@
+ .video-thumb{
+     width: 100%;
+     height: 100%;
+ }
+ .videoListItemTitle{
+     padding: 10px;
+     background: #3f51b5;
+     color: white; 
+     text-overflow: ellipsis;
+     overflow: hidden;
+     white-space: nowrap;
+ }
+ .videoList{
+     height: 840px;
+     overflow-y: auto;
+ }
