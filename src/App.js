@@ -35,7 +35,7 @@ function App() {
 
   const [videos, setVideos] = React.useState([]);
   const [selectedVideo, setSelectedVideo] = React.useState(null);
-  const [channelId, setChannelId] = React.useState('UCsUzcuvRZmPfJIqPcnmo3xw');
+  const [channelId, setChannelId] = React.useState('UCg8ss4xW9jASrqWGP30jXiw');
   
 
  
